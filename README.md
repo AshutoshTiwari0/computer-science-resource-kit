@@ -1,10 +1,12 @@
 
 # 📚 Computer Science Resource Kit
 
+![](https://i.imgur.com/waxVImv.png)
+
 A **structured, in-depth resource kit** covering major fields in Computer Science — curated from real preparation journeys and practical learning experiences.
 Whether you’re a beginner or aiming for mastery, this repository offers **organized, high-quality resources** for self-paced learning.
 
----
+![](https://i.imgur.com/waxVImv.png)
 
 ## 📂 Fields & Resources
 
