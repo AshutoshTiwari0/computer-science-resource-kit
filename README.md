@@ -1,4 +1,4 @@
-Here’s an improved **README** draft with clear structure, better formatting, and proper links to field-specific `.md` files like `Web_Development.md`, `AI_ML.md`, etc.
+Here’s an improved **README** draft with clear structure, better formatting, and proper links to field-specific `.md` files like `Web_Development.md`, `Artificial_Intelligence.md`, etc.
 
 ---
 
