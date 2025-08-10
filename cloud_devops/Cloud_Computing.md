@@ -294,3 +294,17 @@ Working in cloud computing is incredibly rewarding, but it comes with challenges
 **Final thought**: The cloud industry moves fast, and it can feel overwhelming. Remember that everyone started as a beginner. Focus on building a strong foundation, stay curious, and don't be afraid to ask questions. The cloud community is generally very supportive of newcomers who show genuine interest in learning.
 
 The journey from beginner to cloud expert typically takes 2-3 years of focused effort, but the career opportunities and salary potential make it worthwhile. Start today, be consistent, and celebrate small wins along the way.
+
+## Additional Resources
+
+For comprehensive study materials, practice exams, hands-on lab guides, and detailed AWS SAA certification resources, check out our dedicated [Cloud Computing Resources & Study Materials](./Cloud_Resources.md) guide. This companion resource includes:
+
+- Specific course recommendations (Stéphane Maarek, Abhishek Veeramalla, Adrian Cantrill)
+- Practice exam platforms (Tutorials Dojo, Peace of Code, Whizlabs)
+- Cheat sheets and quick reference materials
+- Detailed home lab project instructions
+- AWS Free Tier optimization strategies
+- Study schedules and career progression paths
+- Cost management and troubleshooting guides
+
+The resources file is designed to complement this learning path with actionable, hands-on materials that will accelerate your cloud computing journey.
