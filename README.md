@@ -49,5 +49,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-If you want, I can also make **matching `.md` templates** for each field so they’re consistent in style and ready to fill in.
-That way, the `Web_Development.md`, `AI_ML.md`, etc., will all have a standard learning path format.
+
