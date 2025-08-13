@@ -74,7 +74,7 @@ If most of these statements feel true:
 
 ## Personal Comments-
 
-From my experience of building web based systems, I can say for sure that Web Development isn't easy as it looks. The integration of AI technologies in the Web Framework has caused an uproar in the industry and what I see is a raised bar. Instaed of making the work of developers easy, AI has created far more bigger challenges of handling and securing data, integrating and fine tuning LLMs on the web and automating frontend and backend actions.
+From my experience of building web based systems, I can say for sure that Web Development isn't easy as it looks. The integration of AI technologies in the Web Framework has caused an uproar in the industry and what I see is a raised bar. Instead of making the work of developers easy, AI has created far more bigger challenges of handling and securing data, integrating and fine tuning LLMs on the web and automating frontend and backend actions.
 
 With more LLMs becoming open source, we can clearly see what immense power of AI is coming to the hands of developers and at the same time, a HUGE RESPONSIBILITY.
 
@@ -85,10 +85,6 @@ GONE WERE THE DAYS WHEN ONLY FRONTEND,DATABSE AND BACKEND (3-TIER ARCHITECTURE) 
 ## Overview of the Web Development Journey-
 
 <img src="/Web Development/assets/res1.png" width=100%>
-
-Here’s a **meaningful and structured “Overview of the Web Development Journey”** you can use in an article, portfolio, or talk:
-
----
 
 ## **Overview of the Web Development Journey**
 
