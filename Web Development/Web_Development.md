@@ -180,14 +180,16 @@ The journey never truly ends. The web changes fast, and a good developer learns 
 ### 3.2 NoSQL Databases
 
 - **MongoDB** – Document-oriented database
+[Resource Link](https://youtu.be/rU9ZODw5yvU?list=LL)
 - **Redis** – In-memory key-value store
+[Resource Link]([Resource Link](https://youtu.be/rU9ZODw5yvU?list=LL))
 - **Cassandra** – Wide-column store
 
 ### 3.3 ORM/ODM Tools
-
-- **Sequelize** – Node.js ORM for SQL
-- **TypeORM** – TypeScript ORM for multiple databases
 - **Mongoose** – MongoDB ODM for Node.js
+[Mongoose for MongoDB](https://youtu.be/rU9ZODw5yvU?list=LL)
+- **Prisma** – ORM for Node.js to map Postgres
+[Prisma for PostgreSQL](https://youtu.be/RebA5J-rlwg)
 
 ---
 
