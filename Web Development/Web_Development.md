@@ -182,7 +182,7 @@ The journey never truly ends. The web changes fast, and a good developer learns 
 - **MongoDB** – Document-oriented database
 [Resource Link](https://youtu.be/rU9ZODw5yvU?list=LL)
 - **Redis** – In-memory key-value store
-[Resource Link]([Resource Link](https://youtu.be/rU9ZODw5yvU?list=LL))
+[Resource Link](https://youtu.be/Vx2zPMPvmug)
 - **Cassandra** – Wide-column store
 
 ### 3.3 ORM/ODM Tools
