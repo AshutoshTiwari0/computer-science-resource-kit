@@ -196,6 +196,8 @@ The journey never truly ends. The web changes fast, and a good developer learns 
 ## 4. Version Control & Collaboration
 
 - **Git** – Version control system
+Can refer to this [playlist](https://youtu.be/rH3zE7VlIMs)
+It could be lengthy but for beiginners a **gold rush !**
 - **GitHub / GitLab / Bitbucket** – Remote repositories
 - **Branching Strategies** – Git Flow, Feature Branching
 
@@ -206,8 +208,19 @@ The journey never truly ends. The web changes fast, and a good developer learns 
 ### 5.1 Authentication Methods
 
 - **JWT (JSON Web Token)**
+A unique token generated to be used for cookie and session management. Learn more about it from [here](https://www.jwt.io/).
 - **OAuth 2.0**
+Learn about OAuh 2.0 from [here](https://oauth.net/2/) and if suing a social client like Google then refer to their docs for integration.
 - **Session & Cookies**
+I recommend using [cookie-parser](https://www.npmjs.com/package/cookie-parser) for cookie management.
+
+- **Clerk Auth**
+I personally and highly recommned using Clerk as it makes the authentication process easy and more secure. Since it is a third party authentication service so there is a debate among devs whether to use clerk or make your own authentication systems owing to the sensitivity of handling crucial user data.
+<br>Nonethelesss, I found clerk to be very useful.
+[Documentaion for clerk](https://clerk.com/docs)
+Use [Clerk Webhook](https://clerk.com/docs/webhooks/overview) for Server-side handling.
+
+For **Clerk Webhooks**, I recommend watching this [video](https://youtu.be/VCSI9mkQYMY)
 
 ### 5.2 Security Practices
 
