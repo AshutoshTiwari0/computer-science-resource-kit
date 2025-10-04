@@ -15,7 +15,7 @@ Whether you’re a beginner or aiming for mastery, this repository offers **orga
 | **🌐 Web Development**                            | [Web_Development.md](Web%20Development/Web_Development.md)                                   | HTML, CSS, JavaScript, frameworks, backend, deployment       |
 | **📱 Android Development**                        | [Android_Development.md](Android%20Development/Android_Development.md)                       | Java/Kotlin, Android Studio, app architecture, UI/UX         |
 | **☁️ Cloud Computing**                            | [Cloud_Computing.md](cloud_devops/Cloud_Computing.md)                                         | AWS, Azure, GCP, DevOps basics, serverless computing         |
-| **🧠 Competitive Programming**                    | [Competitive_Programming.md](Competitive_Programming.md)                                     | Problem-solving strategies, online judges, contests          |
+| **🧠 Competitive Programming**                    | [Competitive Programming.md](Competitive Programming.md)                                     | Problem-solving strategies, online judges, contests          |
 | **🗄️ Databases**                                 | [Databases.md](Databases.md)                                                                  | SQL, NoSQL, optimization, database design                    |
 ---
 
